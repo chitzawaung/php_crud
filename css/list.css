@@ -1,0 +1,100 @@
+.containercss {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.list_title {
+    color: gold;
+    background-color: teal;
+    text-align: center;
+}
+
+
+.fruids {
+    padding: 10px;
+}
+
+.fruids b {
+    margin-top: 10px;
+    display: block;
+    font-size: 20px;
+    margin-bottom: 5px;
+    color:royalblue;
+}
+
+
+.fruids div {
+    margin: 5px 0;
+    font-size: 15px;
+    line-height: 1.5em;
+    color: darkturquoise;
+    width: 80%;
+    position: relative;
+    padding-bottom: 20px;
+    word-break: break-all;
+}
+
+.del {
+    background: aliceblue;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    border-radius: 7px;
+    color: rgb(211, 81, 81);
+}
+
+.del:hover {
+    border: 1px solid red;
+    text-decoration: none;
+    color: red;
+}
+
+.edit {
+    background: aliceblue;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    border-radius: 7px;
+    color: yellow;
+}
+
+.edit:hover {
+    border: 1px solid darkorange;
+    text-decoration: none;
+    color: darkorange;
+}
+
+a.new {
+    background: aliceblue;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    border-radius: 7px;
+    color: greenyellow;
+}
+
+a.new:hover {
+    border: 1px solid green;
+    text-decoration: none;
+    color: green;
+}
+
+
+a.logout {
+    background: aliceblue;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    border-radius: 7px;
+    color: blue;
+}
+
+a.logout:hover {
+    border: 1px solid royalblue;
+    text-decoration: none;
+    color: royalblue;
+}
